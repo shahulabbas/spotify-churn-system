@@ -1,7 +1,7 @@
+node_modules/
 __pycache__/
 *.pyc
 .env
-node_modules/
 *.pkl
 *.db
 .DS_Store
